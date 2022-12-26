@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "349420874092",
+    "project_id": "erpsys-de2ac",
+    "storage_bucket": "erpsys-de2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349420874092:android:2f200cdb0567218d1ceb49",
+        "android_client_info": {
+          "package_name": "com.badpay.erpsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349420874092-gr2i2dts7i7kts6krmfiithjvena6t6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.badpay.erpsys",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "349420874092-1s0gr3mmguhigt1fdfhf7u4elpem5krg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RNct6ITWjbABJXI6SKo12C7ya7vUKhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349420874092-1s0gr3mmguhigt1fdfhf7u4elpem5krg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "349420874092-larb9ip0866r8clm6mg43lkqohq1bggf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.badpay.erpsys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
